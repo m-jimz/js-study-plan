@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // no error
 let message = "Hello";
 message = 123456;
@@ -71,3 +72,15 @@ typeof console.log
 
 // string quotes
 
+=======
+// no error
+
+let message = "hello";
+message = 123456;
+
+let n = 123;
+n = 12.345;
+
+console.log("Message:", message);
+console.log("Number:", n);
+>>>>>>> 3e5bdd66de1f58a70221e187834b4c721badee66
